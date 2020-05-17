@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Indian GST Number Validation",
-
-    'summary': """
-        Checks the GST Number ( GSTIN ) for accuracy""",
-
+    'summary': """Checks the GST Number ( GSTIN ) for accuracy""",
     'description': """
         Performs the following checks when you enter a GSTIN number :
 	    1. Length
@@ -12,7 +9,6 @@
             3. Checksum
 		It will give you a simple warning if it finds a wrong entry.
     """,
-
     'author': "Qilin Software Lab Pvt Ltd",
     'website': "http://www.qilinlab.com",
     'category': 'Uncategorized',
